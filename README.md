@@ -18,6 +18,8 @@ this is 3 layer architecture  module
  
 
 5)![image](https://github.com/Ashwini-P9/BookMyShowApi/assets/126177292/f95b632e-c78e-439d-ad28-efb690130f95)
+![image](https://github.com/Ashwini-P9/BookMyShowApi/assets/126177292/50c90b21-5d0c-47e4-98cc-4f37a7ac55c5)
+
 
 6)![image](https://github.com/Ashwini-P9/BookMyShowApi/assets/126177292/a589840b-88e9-4045-8f7d-79ec5c73ba34)
 
@@ -25,6 +27,7 @@ this is 3 layer architecture  module
 )
 8)
 ![image](https://github.com/Ashwini-P9/BookMyShowApi/assets/126177292/2fe31e7b-2447-4413-8cb6-0d5cb74c7382)
+ 9)
+ ![image](https://github.com/Ashwini-P9/BookMyShowApi/assets/126177292/d6680150-c045-435d-8246-35be31b66f54)
 
-![image](https://github.com/Ashwini-P9/BookMyShowApi/assets/126177292/ad769de1-9136-4e6a-90b6-16881198b800)
 
