@@ -15,13 +15,16 @@ this is 3 layer architecture  module
 
 ![image](https://github.com/Ashwini-P9/BookMyShowApi/assets/126177292/68472e30-4d6f-43c9-b2b2-97a8d6685765)
 
-5)
-![image](https://github.com/Ashwini-P9/BookMyShowApi/assets/126177292/b97a33ee-dc93-4121-9339-b0de501ed69a)
+ 
 
-6)![image](https://github.com/Ashwini-P9/BookMyShowApi/assets/126177292/f95b632e-c78e-439d-ad28-efb690130f95)
+5)![image](https://github.com/Ashwini-P9/BookMyShowApi/assets/126177292/f95b632e-c78e-439d-ad28-efb690130f95)
 
-7)![image](https://github.com/Ashwini-P9/BookMyShowApi/assets/126177292/a589840b-88e9-4045-8f7d-79ec5c73ba34)
+6)![image](https://github.com/Ashwini-P9/BookMyShowApi/assets/126177292/a589840b-88e9-4045-8f7d-79ec5c73ba34)
 
-8)![image](https://github.com/Ashwini-P9/BookMyShowApi/assets/126177292/c72d2e9a-1ae4-4bd1-8a35-331cae39df58)
+7)![image](https://github.com/Ashwini-P9/BookMyShowApi/assets/126177292/c72d2e9a-1ae4-4bd1-8a35-331cae39df58)
+)
+8)
+![image](https://github.com/Ashwini-P9/BookMyShowApi/assets/126177292/2fe31e7b-2447-4413-8cb6-0d5cb74c7382)
 
+![image](https://github.com/Ashwini-P9/BookMyShowApi/assets/126177292/ad769de1-9136-4e6a-90b6-16881198b800)
 
