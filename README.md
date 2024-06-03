@@ -10,14 +10,14 @@ this is 3 layer architecture  module
 
 3)
 ![image](https://github.com/Ashwini-P9/BookMyShowApi/assets/126177292/e11335e5-5f78-4945-844f-fca64c05acec)
-
-5)![Uploading image.png…]()
+ 
 
 
 
 ![image](https://github.com/Ashwini-P9/BookMyShowApi/assets/126177292/68472e30-4d6f-43c9-b2b2-97a8d6685765)
 
- 
+ ![image](https://github.com/Ashwini-P9/BookMyShowApi/assets/126177292/f4cc2906-836a-4c48-bc70-dd90de44ccdc)
+
 
 5)![image](https://github.com/Ashwini-P9/BookMyShowApi/assets/126177292/f95b632e-c78e-439d-ad28-efb690130f95)
 
