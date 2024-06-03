@@ -10,7 +10,9 @@ this is 3 layer architecture  module
 
 3)
 ![image](https://github.com/Ashwini-P9/BookMyShowApi/assets/126177292/e11335e5-5f78-4945-844f-fca64c05acec)
-4)
+
+5)![Uploading image.png…]()
+
 
 
 ![image](https://github.com/Ashwini-P9/BookMyShowApi/assets/126177292/68472e30-4d6f-43c9-b2b2-97a8d6685765)
