@@ -28,8 +28,6 @@ this is 3 layer architecture  module
 7)![image](https://github.com/Ashwini-P9/BookMyShowApi/assets/126177292/c72d2e9a-1ae4-4bd1-8a35-331cae39df58)
 )
 8)
-![image](https://github.com/Ashwini-P9/BookMyShowApi/assets/126177292/2fe31e7b-2447-4413-8cb6-0d5cb74c7382)
-
-![image](https://github.com/Ashwini-P9/BookMyShowApi/assets/126177292/ad769de1-9136-4e6a-90b6-16881198b800)
+ 
   ![image](https://github.com/Ashwini-P9/BookMyShowApi/assets/126177292/b6f80e55-7d51-473b-a9a9-5a387a539714)
 
